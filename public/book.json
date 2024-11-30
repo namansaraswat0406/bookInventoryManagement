@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishedDate": "1960",
+        "publisher": "J.B. Lippincott & Co.",
+        "overview": "A novel about the serious issues of race, class, gender, and justice in the Deep South."
+    },
+    {
+        "id": 2,
+        "title": 1984,
+        "author": "George Orwell",
+        "publishedDate": "1949",
+        "publisher": "Secker & Warburg",
+        "overview": "A dystopian novel exploring themes of totalitarianism, surveillance, and individuality."
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishedDate": "1813",
+        "publisher": "T. Egerton",
+        "overview": "A romantic novel that also critiques the British landed gentry of the early 19th century."
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishedDate": "1925",
+        "publisher": "Charles Scribner\"s Sons",
+        "overview": "A story about the Jazz Age, wealth, and the American dream in the 1920s."
+    },
+    {
+        "id": 5,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "publishedDate": "1851",
+        "publisher": "Harper & Brothers",
+        "overview": "A tale of obsession and revenge as Captain Ahab hunts the white whale, Moby Dick."
+    },
+    {
+        "id": 6,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publishedDate": "1951",
+        "publisher": "Little, Brown and Company",
+        "overview": "A story of a teenage boy, Holden Caulfield, struggling with finding his place in the adult world."
+    },
+    {
+        "id": 7,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "publishedDate": "1954",
+        "publisher": "George Allen & Unwin",
+        "overview": "An epic fantasy novel about the journey to destroy the One Ring."
+    },
+    {
+        "id": 8,
+        "title": "Harry Potter and the Philosopher\"s Stone",
+        "author": "J.K. Rowling",
+        "publishedDate": "1997",
+        "publisher": "Bloomsbury",
+        "overview": "The first book in the Harry Potter series about a young wizard attending Hogwarts."
+    },
+    {
+        "id": 9,
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "publishedDate": "1950",
+        "publisher": "Geoffrey Bles",
+        "overview": "A fantasy series where children step into a magical world called Narnia."
+    },
+    {
+        "id": 10,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "publishedDate": "1945",
+        "publisher": "Secker & Warburg",
+        "overview": "A political allegory about farm animals overthrowing their human owner."
+    },
+    {
+        "id": 11,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "publishedDate": "1847",
+        "publisher": "Smith, Elder & Co.",
+        "overview": "The story of an orphaned girl who grows up to become a governess and falls in love with her employer."
+    },
+    {
+        "id": 12,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "publishedDate": "1847",
+        "publisher": "Thomas Cautley Newby",
+        "overview": "A passionate tale of love, revenge, and obsession set on the Yorkshire moors."
+    },
+    {
+        "id": 13,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "publishedDate": "1861",
+        "publisher": "Chapman & Hall",
+        "overview": "A coming-of-age story about Pip, a young boy with big aspirations and a mysterious benefactor."
+    },
+    {
+        "id": 14,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "publishedDate": "1862",
+        "publisher": "A. Lacroix, Verboeckhoven & Cie",
+        "overview": "A tale of redemption and love during the French Revolution."
+    },
+    {
+        "id": 15,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "publishedDate": "1869",
+        "publisher": "The Russian Messenger",
+        "overview": "A grand epic chronicling the lives of several aristocratic families during the Napoleonic wars."
+    },
+    {
+        "id": 16,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "publishedDate": "1877",
+        "publisher": "The Russian Messenger",
+        "overview": "The tragic love story of Anna Karenina and her doomed affair with Count Vronsky."
+    },
+    {
+        "id": 17,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "publishedDate": "1866",
+        "publisher": "The Russian Messenger",
+        "overview": "A psychological thriller about a young man who commits a murder and struggles with his conscience."
+    },
+    {
+        "id": 18,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "publishedDate": "1880",
+        "publisher": "The Russian Messenger",
+        "overview": "A complex exploration of morality, free will, and the existence of God."
+    },
+    {
+        "id": 19,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "publishedDate": "1857",
+        "publisher": "Michel Lévy Frères",
+        "overview": "A story of a woman’s unfulfilled dreams and romantic illusions, leading to her downfall."
+    },
+    {
+        "id": 20,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "publishedDate": "8th century BC",
+        "publisher": "N/A",
+        "overview": "An epic journey of the Greek hero Odysseus and his quest to return home from the Trojan War."
+    },
+    {
+        "id": 21,
+        "title": "The Iliad",
+        "author": "Homer",
+        "publishedDate": "8th century BC",
+        "publisher": "N/A",
+        "overview": "The epic story of the Greek and Trojan warriors during the Trojan War."
+    },
+    {
+        "id": 22,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "publishedDate": "1859",
+        "publisher": "Chapman & Hall",
+        "overview": "A story set during the French Revolution, exploring themes of sacrifice and resurrection."
+    },
+    {
+        "id": 23,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "publishedDate": "1818",
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "overview": "The classic tale of Dr. Frankenstein and the monster he creates."
+    },
+    {
+        "id": 24,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "publishedDate": "1897",
+        "publisher": "Archibald Constable and Company",
+        "overview": "A Gothic horror novel about Count Dracula’s attempt to move from Transylvania to England in order to spread the undead curse."
+    },
+    {
+        "id": 25,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publishedDate": "1937",
+        "publisher": "George Allen & Unwin",
+        "overview": "The precursor to The Lord of the Rings, following the adventures of Bilbo Baggins."
+    },
+    {
+        "id": 26,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "publishedDate": "1605",
+        "publisher": "Francisco de Robles",
+        "overview": "The tale of an aging man who believes he is a knight, embarking on adventures with his faithful squire Sancho Panza."
+    },
+    {
+        "id": 27,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publishedDate": "1988",
+        "publisher": "Editora Rocco",
+        "overview": "A philosophical story about pursuing one’s personal legend and finding one’s destiny."
+    },
+    {
+        "id": 28,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "publishedDate": "2003",
+        "publisher": "Riverhead Books",
+        "overview": "A gripping story about friendship, betrayal, and redemption set against the backdrop of Afghanistan’s history."
+    },
+    {
+        "id": 29,
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "publishedDate": "2001",
+        "publisher": "Knopf Canada",
+        "overview": "A story of survival and faith as Pi Patel survives a shipwreck in the Pacific Ocean with a Bengal tiger."
+    },
+    {
+        "id": 30,
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "publishedDate": "2006",
+        "publisher": "Alfred A. Knopf",
+        "overview": "A post-apocalyptic novel following a father and his son as they journey through a barren world."
+    },
+    {
+        "id": 31,
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "publishedDate": "1987",
+        "publisher": "Alfred A. Knopf",
+        "overview": "A haunting novel about the horrors of slavery and a mother’s love."
+    },
+    {
+        "id": 32,
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "publishedDate": "1982",
+        "publisher": "Harcourt Brace Jovanovich",
+        "overview": "A story of an African-American woman’s struggles in the South during the early 20th century."
+    },
+    {
+        "id": 33,
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "publishedDate": "2005",
+        "publisher": "Knopf Books for Young Readers",
+        "overview": "A young girl in Nazi Germany steals books and shares them with others while living through the horrors of World War II."
+    },
+    {
+        "id": 34,
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "publishedDate": "2007",
+        "publisher": "Riverhead Books",
+        "overview": "A story of two women in Afghanistan whose lives are bound together by love, war, and loss."
+    },
+    {
+        "id": 35,
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden",
+        "publishedDate": "1997",
+        "publisher": "Alfred A. Knopf",
+        "overview": "The fictional account of a geisha’s life in Kyoto before and after World War II."
+    },
+    {
+        "id": 36,
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "publishedDate": "1969",
+        "publisher": "Delacorte Press",
+        "overview": "A science-fiction novel that blends the absurd with the tragic, following a soldier in World War II."
+    },
+    {
+        "id": 37,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "publishedDate": "1953",
+        "publisher": "Ballantine Books",
+        "overview": "A dystopian novel set in a future where books are banned and burned."
+    },
+    {
+        "id": 38,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publishedDate": "1932",
+        "publisher": "Chatto & Windus",
+        "overview": "A vision of a future society where technology and consumerism dominate, and free will is suppressed."
+    },
+    {
+        "id": 39,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "publishedDate": "1890",
+        "publisher": "Lippincott\"s Monthly Magazine",
+        "overview": "A story about a man whose portrait ages while he remains eternally young and beautiful."
+    },
+    {
+        "id": 40,
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "publishedDate": "1939",
+        "publisher": "The Viking Press",
+        "overview": "A tale of a family’s journey west during the Great Depression."
+    },
+    {
+        "id": 41,
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "publishedDate": "1937",
+        "publisher": "Covici-Friede",
+        "overview": "The story of two displaced migrant workers during the Great Depression."
+    },
+    {
+        "id": 42,
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "publishedDate": "1952",
+        "publisher": "Viking Press",
+        "overview": "A story about two families and the generational struggles of good and evil."
+    },
+    {
+        "id": 43,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "publishedDate": "1967",
+        "publisher": "Editorial Sudamericana",
+        "overview": "A multi-generational story of the Buendía family in the fictional town of Macondo."
+    },
+    {
+        "id": 44,
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "publishedDate": "1985",
+        "publisher": "Editorial Oveja Negra",
+        "overview": "A love story that spans decades in a Caribbean seaport town."
+    },
+    {
+        "id": 45,
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "publishedDate": "1942",
+        "publisher": "Gallimard",
+        "overview": "A philosophical novel about an emotionally detached man who commits an absurd murder."
+    },
+    {
+        "id": 46,
+        "title": "The Plague",
+        "author": "Albert Camus",
+        "publishedDate": "1947",
+        "publisher": "Gallimard",
+        "overview": "A story about a plague that strikes a town and the human responses to it."
+    },
+    {
+        "id": 47,
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "publishedDate": "1952",
+        "publisher": "Random House",
+        "overview": "The story of an unnamed Black man in America who struggles to find his identity."
+    },
+    {
+        "id": 48,
+        "title": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zafón",
+        "publishedDate": "2001",
+        "publisher": "Planeta",
+        "overview": "A mysterious tale set in post-World War II Barcelona surrounding a book called 'The Shadow of the Wind.'"
+    },
+    {
+        "id": 49,
+        "title": "The Name of the Rose",
+        "author": "Umberto Eco",
+        "publishedDate": "1980",
+        "publisher": "Bompiani",
+        "overview": "A medieval murder mystery set in a Benedictine monastery."
+    },
+    {
+        "id": 50,
+        "title": "The Handmaid’s Tale",
+        "author": "Margaret Atwood",
+        "publishedDate": "1985",
+        "publisher": "McClelland and Stewart",
+        "overview": "A dystopian novel set in a totalitarian society where women’s rights have been stripped away."
+    }
+]
